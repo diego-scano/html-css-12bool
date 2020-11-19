@@ -1,0 +1,23 @@
+[class*="col-"] {
+  height: 97.5px;
+}
+
+.red {
+  background-color: #ed1b24;
+}
+
+.yellow {
+  background-color: #ffc20f;
+}
+
+.brown {
+  background-color: #643201;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: #0000fe;
+}
